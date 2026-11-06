@@ -14,3 +14,6 @@ Bu proje, Türk halk anlatı geleneğine ait masalları modern web standartları
 1. Bu depodaki tüm dosyaları bilgisayarınıza indirin.
 2. Klasörün içerisindeki **`tek.html`** dosyasını bulun.
 3. Dosyaya çift tıklayarak herhangi bir modern web tarayıcısında (Google Chrome, Firefox, Edge, Safari vb.) çalıştırabilirsiniz.
+
+Youtube Sunum Videosu
+https://www.youtube.com/watch?v=sknqtlP4rMM
